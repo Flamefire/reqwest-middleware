@@ -4,3 +4,6 @@ members = [
   "reqwest-tracing",
   "reqwest-retry",
 ]
+
+[workspace.package]
+authors = ["Nice Folks"]
